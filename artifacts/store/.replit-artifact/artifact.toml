@@ -1,6 +1,6 @@
 kind = "web"
 previewPath = "/"
-title = "发卡商城"
+title = "阿凡达社交媒体"
 version = "1.0.0"
 id = "artifacts/store"
 router = "path"
